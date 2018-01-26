@@ -18,3 +18,8 @@ Gamma = HMAC(CounterBlock, Key)
 Counter = Counter + 1
 
 so new round get new Gamma
+
+<br />
+<br />
+
+Full text https://habrahabr.ru/post/347216/ (RUS)
